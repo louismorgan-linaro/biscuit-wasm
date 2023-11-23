@@ -21,7 +21,7 @@
     "module/biscuit.js",
     "module/biscuit_bg.js",
     "module/biscuit.d.ts",
-    "module/snippets"
+    "module/snippets/*"
   ],
   "main": "module/biscuit.js",
   "type": "module",
