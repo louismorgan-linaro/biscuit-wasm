@@ -1,1 +1,0 @@
-/home/louis/biscuit-wasm/target/wasm32-unknown-unknown/release/biscuit_wasm.wasm: /home/louis/biscuit-wasm/src/authorizer.rs /home/louis/biscuit-wasm/src/builder.rs /home/louis/biscuit-wasm/src/crypto.rs /home/louis/biscuit-wasm/src/lib.rs
